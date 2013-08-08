@@ -1,5 +1,7 @@
-Automatic-link
-==============
+=== Automatic link ===
+Contributors: eduplessis
+Requires at least: 0
+Tested up to: 3.52
 
 It's a shortcode for nice url in the the text editor
 
